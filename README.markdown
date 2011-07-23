@@ -1,7 +1,7 @@
-h2 Installed packages
+# Installed packages
 * coffee-script
 * nodemon
 
-h2 Commands
-h3 Compiled coffee script
+## Commands
+### Compiled coffee script
 _(coffee --compile --watch .&); nodemon server.js_
